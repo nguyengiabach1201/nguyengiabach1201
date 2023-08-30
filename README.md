@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **nguyengiabach1201@gmail.com**
 
-- 📄 Know about my game-development experiences on  [Itch.io](https://nguyengiabach1201.itch.io/)
+- 📄 Know about my game-development experiences on  [itch.io](https://nguyengiabach1201.itch.io/)
 
 - ⚡ Fun fact **I graduated CS 50 course**
 
