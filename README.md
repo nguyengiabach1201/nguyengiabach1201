@@ -9,17 +9,17 @@
 
 - 🌱 I’m currently learning **Typescript**
 
-- 👯 I’m collaborating in my team [Artium](https://github.com/artium-team)
+- 👯 I’m collaborating with my team [Artium](https://github.com/artium-team)
 
-- 👨‍💻 All of my projects are available at [https://github.com/nguyengiabach1201?tab=repositories](https://github.com/nguyengiabach1201?tab=repositories)
+- 👨‍💻 All of my projects are available on [Github](https://github.com/nguyengiabach1201?tab=repositories)
 
-- 📝 I regularly write articles on [https://www.facebook.com/profile.php?id=100089037395226](https://www.facebook.com/profile.php?id=100089037395226)
+- 📝 I regularly write articles on [my Facebook](https://www.facebook.com/profile.php?id=100089037395226)
 
 - 💬 Ask me about **JS, Python**
 
 - 📫 How to reach me **nguyengiabach1201@gmail.com**
 
-- 📄 Know about my game-development experiences [https://nguyengiabach1201.itch.io/](https://nguyengiabach1201.itch.io/)
+- 📄 Know about my game-development experiences on  [Itch.io](https://nguyengiabach1201.itch.io/)
 
 - ⚡ Fun fact **I graduated CS 50 course**
 
