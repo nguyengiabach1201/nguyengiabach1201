@@ -1,6 +1,6 @@
 ## 👋 Hey! Welcome to my Github
 
-![image](https://github.com/nguyengiabach1201/nguyengiabach1201/assets/108968549/82a6f89b-d1f8-4602-833a-9f40b5753a75)
+![image](./imgs/nguyengiabach1201-background.jpeg)
 
 📸 [Haunted House](https://github.com/artium-team/NTP-Haunted-House), December 25th 2023, Huế, Việt Nam
 
