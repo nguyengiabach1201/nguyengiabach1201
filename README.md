@@ -1,4 +1,4 @@
-## 👋 Hey! Welcome to my Github
+## 👋 Hey! Welcome to my GitHub
 
 ![image](./imgs/nguyengiabach1201-background.jpeg)
 
@@ -6,6 +6,6 @@
 
 👋 Hello, my name is Gia Bách. I'm a Vietnamese who grew up in Huế; nowadays, I'm studying at Nguyễn Tri Phương Junior Highschool! 
 
-I enjoy learning and making new things, especially when it comes to programming.
+I enjoy learning and making new things, especially when it comes to programming. I'm always energetic, and enthusiastic about new things!
 
 You can email me at [nguyengiabach1201@gmail.com](mailto:nguyengiabach1201@gmail.com), feel free to email me about anything!
