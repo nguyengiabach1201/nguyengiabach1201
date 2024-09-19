@@ -8,3 +8,4 @@
 
 I enjoy learning and making new things, especially when it comes to programming.
 
+You can email me at [nguyengiabach1201@gmail.com](mailto:nguyengiabach1201@gmail.com), feel free to email me about anything!
